@@ -29,7 +29,7 @@ site, and the date and time of each visitor request. Our purpose in
 collecting non-personally identifying information is to better
 understand how our visitors use the website. From time to time, we may
 release non-personally-identifying information in the aggregate, e.g.,
-by publishing a report on trends in the usage of its website.
+by publishing a report on trends in the usage of our website.
 
 We also collects potentially personally-identifying information like
 Internet Protocol (IP) addresses for logged in users and for users
@@ -44,7 +44,7 @@ other.
 Certain visitors to our website choose to interact with us in ways that
 require us to gather personally-identifying information. The amount and
 type of information that we gather depends on the nature of the
-interaction. For example, we ask visitors who sign up for an accout at
+interaction. For example, we ask visitors who sign up for an account at
 our website to provide a username and email address. Those who engage in
 transactions with us are for example asked to provide additional
 information, including as necessary the personal and financial
@@ -61,7 +61,7 @@ certain website-related activities.
 We may collect statistics about the behavior of visitors to our website.
 For instance, we may monitor the most popular page on our website. We
 may display this information publicly or provide it to others. However,
-we doe not disclose personally-identifying information other than as
+we do not disclose personally-identifying information other than as
 described below.
 
 ### Protection of Certain Personally-Identifying Information
@@ -80,7 +80,7 @@ affiliated organizations, as described above, We discloses potentially
 personally-identifying and personally-identifying information only in
 response to a subpoena, court order or other governmental request, or
 when we believe in good faith that disclosure is reasonably necessary to
-protect our property or rights, third parties or the public at large. If
+protect our property or rights. If
 you are a registered user of our website and have supplied your email
 address, we may occasionally send you an email to tell you about new
 features, solicit your feedback, or just keep you up to date with what’s
