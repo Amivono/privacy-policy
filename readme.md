@@ -3,11 +3,12 @@ Open Privacy Policy available under a Creative Commons Sharealike license.
 Licence: http://creativecommons.org/licenses/by-sa/2.5/
 Based on: http://automattic.com/privacy/
 
-We are currently building a website to which we need a Privacy Policy. So I
-did browse around internet to see what's in others sites policies. That when
-I found Automattics policy, and that they had available under a Crative Commons
+We at Amivono are currently building a website to which we need a Privacy Policy. So I
+did browse around Internet to see what's in others sites policies. That's when
+I found Automattics policy, and that they had it available under a Crative Commons
 sharealike license. So I decided to "fork" their policy, rewrite it to fit our
-website and than share that together we this Automatics orginal.
+website, translate it into Swedish and than share it together we Automattic's
+orginal version.
 
 To quote Automattic
 
@@ -18,10 +19,14 @@ To quote Automattic
     a link to Automattic.com somewhere on your site. We spent a lot of money and
     time on the below, and other people shouldn’t need to do the same.)
 
-We totally share thease ideas.
+I totally share thease ideas.
+
+**Files**
+
+    automattic-en.md - The original policy, a copy of this http://automattic.com/privacy/
+    amivono-en.md    - Our rewritten policy
+    amivono-se.md    - Our rewritten policy translated into Swedish.
 
 
-    automatic-en.md - The original policy, a copy of this http://automattic.com/privacy/
-    amivono-en.md   - Our rewritten policy
-    amivono-se.md   - Our rewritten policy translated into Swedish.
-
+Daniel 'Arlukin' Lindh
+2013-03-02 -- Stockholm SWEDEN
